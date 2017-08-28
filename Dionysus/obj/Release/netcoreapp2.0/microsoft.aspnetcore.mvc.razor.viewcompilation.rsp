@@ -1,0 +1,13 @@
+C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Dionysus
+--content-root=C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus
+--file=C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\Views\AuctionItems\Index.cshtml
+--file=C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\Views\Offer\Create.cshtml
+--file=C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\Views\Offer\OfferSubmitResult.cshtml
+--file=C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\Views\Shared\About.cshtml
+--file=C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\Views\Shared\Error.cshtml
+--file=C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\Views\Shared\_Layout.cshtml
+--file=C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\Views\_ViewImports.cshtml
+--file=C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\Views\_ViewStart.cshtml

@@ -1,0 +1,11 @@
+C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\bin\Release\netcoreapp2.0\Dionysus.deps.json
+C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\bin\Release\netcoreapp2.0\Dionysus.runtimeconfig.json
+C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\bin\Release\netcoreapp2.0\Dionysus.runtimeconfig.dev.json
+C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\bin\Release\netcoreapp2.0\Dionysus.dll
+C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\bin\Release\netcoreapp2.0\Dionysus.pdb
+C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\obj\Release\netcoreapp2.0\Dionysus.csprojResolveAssemblyReference.cache
+C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\obj\Release\netcoreapp2.0\Dionysus.csproj.CoreCompileInputs.cache
+C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\obj\Release\netcoreapp2.0\Dionysus.AssemblyInfoInputs.cache
+C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\obj\Release\netcoreapp2.0\Dionysus.AssemblyInfo.cs
+C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\obj\Release\netcoreapp2.0\Dionysus.dll
+C:\Users\Hundipesa\Documents\Visual Studio 2017\Projects\Dionysus\Dionysus\obj\Release\netcoreapp2.0\Dionysus.pdb
